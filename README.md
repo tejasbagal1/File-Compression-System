@@ -1,3 +1,4 @@
+
 # File-Compression-System
 Compress Text Files Using Huffman Coding Algorithm
 
@@ -42,4 +43,6 @@ Compress Text Files Using Huffman Coding Algorithm
 
 ## Screenshot
 
-<img src="screenshot.png">
+![saveG](https://user-images.githubusercontent.com/58545228/122533538-4f7c5f00-d03f-11eb-869d-717c0fc7c11d.PNG)
+
+* **Here 86% compression is achieved** 
