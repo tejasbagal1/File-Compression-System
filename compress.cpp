@@ -216,13 +216,13 @@ int main(){
 
         if(tBits == 8){
             out<<buf;
-            print(buf);
+            //print(buf);
             flush(buf, tBits);
             // out.flush();
         }
     }
     out<<buf;
-    print(buf);
+    //print(buf);
     flush(buf, tBits);
     // out.flush();
     out.close();
